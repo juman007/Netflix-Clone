@@ -1,0 +1,11 @@
+@media screen and (max-width: 1300px) {
+    .first{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        color: white;
+    }
+}
